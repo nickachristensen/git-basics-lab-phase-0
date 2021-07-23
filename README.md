@@ -235,6 +235,7 @@ you'd like to practice further, **change directory back into the `my-repository`
 
 - Create another file, then add, commit, and push to the remote
 - Modify the contents of `README.md`, then add, commit, and push to the remote
+-*Making edit
 - Rename `README.md`, then add, commit, and push to the remote
 
 ## Wrapping Up
